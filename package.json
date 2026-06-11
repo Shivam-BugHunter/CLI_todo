@@ -1,0 +1,21 @@
+{
+  "name": "cli_todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivam-BugHunter/CLI_todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Shivam-BugHunter/CLI_todo/issues"
+  },
+  "homepage": "https://github.com/Shivam-BugHunter/CLI_todo#readme"
+}
